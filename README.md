@@ -3,7 +3,7 @@
   🌱 I’m currently learning ... <br>
   
    <a href="https://github.com/MUSQUITU/github-readme-stats">
-<img height="180em align="center" src="https://github-readme-stats.vercel.app/api?username=MUSQUITU&show_icons=true&include_all_commits=true&count_private=false&theme=dracula"  />
+<img height="180em align="center" src="https://github-readme-stats.vercel.app/api?username=MUSQUITU&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"  />
 </a> 
 <a href="https://github.com/MUSQUITU/github-readme-stats">
 <img height="180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUSQUITU&theme=dracula&layout=compact&langs_count=7" />
