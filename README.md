@@ -3,10 +3,10 @@
   🌱 I’m currently learning ... <br>
   
    <a href="https://github.com/MUSQUITU/github-readme-stats">
-<img height="180em align="center" src="https://github-readme-stats.vercel.app/api?username=MUSQUITU&show_icons=true&include_all_commits=true&count_private=true&theme="  />
+<img height="180em align="center" src="https://github-readme-stats.vercel.app/api?username=MUSQUITU&show_icons=true&include_all_commits=true&count_private=true&theme=jolly"  />
 </a> 
 <a href="https://github.com/MUSQUITU/github-readme-stats">
-<img height="180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUSQUITU&theme=&layout=compact&langs_count=7" />
+<img height="180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUSQUITU&theme=jolly&layout=compact&langs_count=7" />
 </a> 
 
 </div>
@@ -33,5 +33,6 @@
     <a href = "mailto:camilinhaalmeida55@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     
 </div>
+
   
  
