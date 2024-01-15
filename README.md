@@ -3,12 +3,12 @@
   🌱 I’m currently learning ... <br>
   
 <a href="https://github.com/MUSQUITU/github-readme-stats">
-<img height="180em align="center" src="https://github-readme-stats.vercel.app/api?username=MUSQUITU&show_icons=true&include_all_commits=true&theme=gruvbox_light"/>
+<img height="180em align="center" src="https://github-readme-stats.vercel.app/api?username=MUSQUITU&show_icons=true&include_all_commits=false&theme=ambient_gradient"/>
 
 
 </a> 
 <a href="https://github.com/MUSQUITU/github-readme-stats">
-<img height="180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUSQUITU&theme=gruvbox_light&layout=compact&langs_count=7" />
+<img height="180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUSQUITU&theme=ambient_gradient&layout=compact&langs_count=7" />
 </a> 
 
 </div>
