@@ -1,15 +1,15 @@
-## Oi ⚡
+## Hi 👋
  <div>
-  🌱 I’m currently learning ... <br>
+  🌱 I’m currently learning  <br>
+  🎓 Computer Science student
   
-<a href="https://github.com/MUSQUITU/github-readme-stats">
-<img height="180em align="center" src="https://github-readme-stats.vercel.app/api?username=MUSQUITU&show_icons=true&include_all_commits=false&theme=ambient_gradient"/>
-
-
+<!--<a href="https://github.com/MUSQUITU/github-readme-stats">   
+ <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=MUSQUITU&show_icons=true&include_all_commits=true&theme=dark"/> 
 </a> 
+
 <a href="https://github.com/MUSQUITU/github-readme-stats">
-<img height="180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUSQUITU&theme=ambient_gradient&layout=compact&langs_count=7" />
-</a> 
+ <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUSQUITU&theme=ambient_gradient&layout=compact&langs_count=7" />
+</a> -->
 
 </div>
 
