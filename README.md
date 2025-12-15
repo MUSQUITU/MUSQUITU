@@ -1,8 +1,9 @@
-## Hi 👋
+## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
  <div>
   
    - 🌱 I’m currently learning  <br>
    * 🎓 Computer Science student <br>
+   - 🚀 Linux enthusiast <br>
  </div> 
  <div>
   
@@ -17,6 +18,7 @@
 
 </div>
 
+## 🔧 Technologies & Tools
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -39,7 +41,6 @@
   <img align="center" alt="nano" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/nano/nano-original.svg">
   <img align="center" alt="ohmyzsh" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/ohmyzsh/ohmyzsh-original.svg">
 
-  
   <img align="right" alt="" src="https://i.picasion.com/pic91/da780cd93a218088acdf6f254e57d1dd.gif">
   
 </div>
