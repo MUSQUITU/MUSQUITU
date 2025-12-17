@@ -7,8 +7,8 @@
  </div> 
  <div>
   
-<a href="https://github.com/musquitu/github-readme-stats">   
- <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=musquitu&show_icons=true&include_all_commits=true&theme=dark"/> 
+<a href="https://github.com/MUSQUITU/github-readme-stats">   
+ <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=MUSQUITU&show_icons=true&include_all_commits=true&theme=dark"/> 
 </a> 
 
 <a href="https://github.com/MUSQUITU/github-readme-stats">
